@@ -1,5 +1,5 @@
 #  TASK:
-English  Please create the following task in any Programming language. 
+Please create the following task in any Programming language. 
 Write a soft program for a Shop that will include the following parts:
 
 • Administrator panel (Add, Edit, Remove shop items, Add workers)
