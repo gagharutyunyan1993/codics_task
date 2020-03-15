@@ -1,0 +1,8 @@
+.idea/
+vendor/composer
+vendor/gabordemooij
+vendor/swiftmailer
+vendor/vlucas
+vendor/autoload.php
+tmp/errors.log
+tmp/cache/*.txt
